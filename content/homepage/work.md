@@ -1,9 +1,9 @@
 ---
-title: 'We Help Business Grow'
+title: 'We are early-career professors, instructors, librarians, archivists, and student counsellors'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work'
-buttonLink: 'work'
+background: 'images/UM-logo.png'
+button: 'Who We Are'
+buttonLink: 'people'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+We came here to start our careers because we saw an opportunity for a great future. We believe that the University of Manitoba is at a defining moment; the future and vision of this institution are on the line.
