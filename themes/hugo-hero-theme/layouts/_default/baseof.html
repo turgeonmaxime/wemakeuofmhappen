@@ -7,7 +7,8 @@
   <title>{{ block "title" . }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {{ block "meta_tags" . }}{{end}}
-  <link rel="icon" href="{{ .Site.BaseURL }}favicon.png">
+  <!--<link rel="icon" href="{{ .Site.BaseURL }}favicon.png">-->
+  <link rel="icon" href="https://umanitoba.ca/themes/custom/umanitoba/favicon.ico">
 
   {{ if .Site.IsServer }}
   {{ $style := resources.Get "scss/style.scss" | toCSS (dict "targetPath" "css/style.css" "enableSourceMap" true) }}

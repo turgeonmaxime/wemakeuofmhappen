@@ -17,9 +17,6 @@ theme = "hugo-hero-theme"
     meta_og_title = "We make UofM happen"
     meta_og_type = "website"
     meta_og_url = "https://wemakeuofmhappen.ca"
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
 	name = "What we do"
@@ -28,7 +25,7 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
     name = "Who we are"
-    url = "/work/"
+    url = "/people/"
     weight = 2
 
 [permalinks]
