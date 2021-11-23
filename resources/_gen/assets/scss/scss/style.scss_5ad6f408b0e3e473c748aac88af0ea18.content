@@ -5999,8 +5999,8 @@ ul.social {
 .hero-image {
   background-size: cover;
   background-repeat: no-repeat;
-  background-blend-mode: overlay;
-  background-color: #1c3ed3;
+  background-blend-mode: normal;
+  background-color: #FFFFFF;
   height: 400px;
   position: relative;
   padding-top: 60px; }
@@ -6050,7 +6050,7 @@ ul.social {
   height: 460px; }
 
 .hero-image-blend-overlay {
-  background-blend-mode: overlay; }
+  background-blend-mode: normal; }
 
 html {
   scroll-behavior: smooth; }
@@ -6071,13 +6071,13 @@ html {
   background-position: top; }
 
 .bg-overlay {
-  background-blend-mode: overlay; }
+  background-blend-mode: normal; }
 
 .bg-primary {
-  background-color: #1c3ed3; }
+  background-color: #FFFFFF; }
 
 .bg-secondary {
-  background-color: #43454d; }
+  background-color: #FFFFFF; }
 
 .page-services-single .content > p:first-of-type {
   font-size: 1.2rem;
