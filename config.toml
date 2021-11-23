@@ -1,4 +1,4 @@
-baseURL = "http://wemakeuofmhappen.ca/"
+baseURL = "https://wemakeuofmhappen.netlify.app/"
 languageCode = "en-us"
 title = "We make UofM happen"
 themesDir = "themes"
