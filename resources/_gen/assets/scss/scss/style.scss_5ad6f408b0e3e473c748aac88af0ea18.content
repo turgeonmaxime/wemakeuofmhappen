@@ -5997,8 +5997,9 @@ ul.social {
         font-style: normal; }
 
 .hero-image {
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
+  background-position: center;
   background-blend-mode: normal;
   background-color: #FFFFFF;
   height: 400px;
