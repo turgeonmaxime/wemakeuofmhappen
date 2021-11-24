@@ -6,7 +6,7 @@ weight: 1
 heroHeading: "Melanie Murchison"
 heroSubHeading: ''
 heroBackground: 'images/teal_bg.png'
-thumbnail: 'work/Melanie_Murchison_photo.jpg'
+thumbnail: 'people/Melanie_Murchison_photo.jpg'
 position: 'Instructor II, Sociology and Criminology'
 ---
 

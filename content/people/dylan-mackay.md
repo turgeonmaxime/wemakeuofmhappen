@@ -6,7 +6,7 @@ weight: 1
 heroHeading: "Dylan MacKay"
 heroSubHeading: ''
 heroBackground: 'images/teal_bg.png'
-thumbnail: 'work/Dylan_MacKay_photo.JPG'
+thumbnail: 'people/Dylan_MacKay_photo.JPG'
 position: 'Assistant Professor, Community Health Sciences'
 ---
 

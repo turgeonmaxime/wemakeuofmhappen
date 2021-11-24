@@ -6,7 +6,7 @@ weight: 1
 heroHeading: "Robert Beattie"
 heroSubHeading: ''
 heroBackground: 'images/teal_bg.png'
-thumbnail: 'work/Robert_Beattie_photo.jpg'
+thumbnail: 'people/Robert_Beattie_photo.jpg'
 position: 'Assistant Professor, Biochemistry and Medical Genetics'
 ---
 
