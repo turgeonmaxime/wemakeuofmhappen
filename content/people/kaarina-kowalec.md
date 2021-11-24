@@ -6,7 +6,7 @@ weight: 1
 heroHeading: "Kaarina Kowalec"
 heroSubHeading: ''
 heroBackground: 'images/teal_bg.png'
-thumbnail: 'people/Kaarina_Kowalec_photo.jpg'
+thumbnail: 'people/Kaarina_Kowalec_thumbnail.jpg'
 position: 'Assistant Professor, Pharmacy'
 ---
 

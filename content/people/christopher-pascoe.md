@@ -6,7 +6,7 @@ weight: 1
 heroHeading: "Christopher Pascoe"
 heroSubHeading: ''
 heroBackground: 'images/teal_bg.png'
-thumbnail: 'people/Christopher_Pascoe_photo.jpg'
+thumbnail: 'people/Christopher_Pascoe_thumbnail.jpg'
 position: 'Assistant Professor, Physiology and Pathophysiology'
 ---
 

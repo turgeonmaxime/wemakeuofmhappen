@@ -6,7 +6,7 @@ weight: 1
 heroHeading: "Jennifer Doering"
 heroSubHeading: ''
 heroBackground: 'images/teal_bg.png'
-thumbnail: 'people/Jennifer_Doering_photo.jpg'
+thumbnail: 'people/Jennifer_Doering_thumbnail.jpg'
 position: 'Instructor I, Biological Sciences'
 ---
 

@@ -6,7 +6,7 @@ weight: 1
 heroHeading: "Patty Thille"
 heroSubHeading: ''
 heroBackground: 'images/teal_bg.png'
-thumbnail: 'people/Patty_Thille_photo.jpg'
+thumbnail: 'people/Patty_Thille_thumbnail.jpg'
 position: 'Assistant Professor, Physical Therapy'
 ---
 

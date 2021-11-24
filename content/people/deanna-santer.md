@@ -6,7 +6,7 @@ weight: 1
 heroHeading: 'Deanna Santer'
 heroSubHeading: ''
 heroBackground: 'images/teal_bg.png'
-thumbnail: 'people/Deanna_Santer_photo.png'
+thumbnail: 'people/Deanna_Santer_thumbnail.png'
 position: 'Assistant Professor, Immunology'
 ---
 

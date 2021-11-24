@@ -6,7 +6,7 @@ weight: 1
 heroHeading: "Aleeza Gerstein"
 heroSubHeading: ''
 heroBackground: 'images/teal_bg.png'
-thumbnail: 'people/Aleeza_Gerstein_photo.jpeg'
+thumbnail: 'people/Aleeza_Gerstein_thumbnail.jpeg'
 position: 'Assistant Professor, Microbiology, Statistics'
 ---
 

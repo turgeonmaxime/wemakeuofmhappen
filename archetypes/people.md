@@ -6,7 +6,7 @@ weight: 1
 heroHeading: "{{ replace .TranslationBaseName "-" " " | title }}"
 heroSubHeading: ''
 heroBackground: 'images/teal_bg.png'
-thumbnail: 'work/work1.jpg'
+thumbnail: 'https://pbs.twimg.com/profile_images/1462725131915055105/ZniTY2WO_400x400.png'
 position: ''
 ---
 

@@ -6,7 +6,7 @@ weight: 1
 heroHeading: "Max Turgeon"
 heroSubHeading: ''
 heroBackground: 'images/teal_bg.png'
-thumbnail: 'people/Max_Turgeon_photo.jpeg'
+thumbnail: 'people/Max_Turgeon_thumbnail.jpeg'
 position: 'Assistant Professor, Statistics, Computer Science'
 ---
 
