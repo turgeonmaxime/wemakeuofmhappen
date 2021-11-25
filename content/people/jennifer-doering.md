@@ -12,7 +12,7 @@ position: 'Instructor I, Biological Sciences'
 
 ### When did you join the University of Manitoba?
 
-Fall 2021
+Fall 2020
 
 ### What do you see as your main contribution to the university?
 
